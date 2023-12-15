@@ -1,6 +1,8 @@
 # Godot-Dx-Highlighter
  A Deus Ex/System Shock inspired pulsing bounds item highlighter for Godot
 
+![](https://github.com/sammburr/Godot-Dx-Highlighter/blob/257c6c0ab9dfa7ef344cf0fd237900600521fc59/demo.gif)
+
 ## Installation
 This repo contains a single `.gd` script which can be simply dragged-and-dropped into any project.
 
