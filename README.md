@@ -14,3 +14,5 @@ Attach the script to a `Node2D`. An outline will be rendered when a `TARGET` (`C
 - WIDTH of boxes
 - COLOR of boxes
 - GAP of dx outline
+
+*Inspired by: [Nothke's Unity Dx Highlighter](https://github.com/nothke/dx-highlighter)*
